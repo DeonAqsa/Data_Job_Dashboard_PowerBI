@@ -1,6 +1,6 @@
 # Data Job Dashboard w/ Power BI
 
-<img width="1150" height="600" alt="Screen Recording 2026-10-06 162309" src="https://github.com/user-attachments/assets/cfd76a26-9944-41af-bae6-122de08b43a8" />
+
 
 
 [View interactive dashboard here on the Power BI Service](https://your-powerbi-link-here.com)
@@ -23,7 +23,7 @@ This is a redesigned version of my earlier data job market dashboard, this time 
 
 ### Main Dashboard View
 
-![Dashboard Overview](/images/DataJobDashboard_Main.png)
+<img width="1150" height="600" alt="Screen Recording 2026-10-06 162309" src="https://github.com/user-attachments/assets/cfd76a26-9944-41af-bae6-122de08b43a8" />
 
 The top of the dashboard holds four KPI cards: **479K total job count**, **$113K median yearly salary**, **$48.00 median hourly salary**, and **4.8 skills per job** on average. Right below the KPIs sit two toggle buttons, Yearly Salary and Hourly Salary, that switch the bar chart beneath it between the two views without changing the page.
 
