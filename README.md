@@ -1,9 +1,9 @@
 # Data Job Dashboard w/ Power BI
 
+![Dashboard Overview](/Resources/main_page.png)
 
 
-
-[View interactive dashboard here on the Power BI Service](https://your-powerbi-link-here.com)
+[View the resources on the Power BI here](/Resources/Power_BI_Course_Progress_2.pbix)
 
 ## Introduction
 
@@ -37,6 +37,9 @@ Python and SQL are clearly the two most in-demand skills, both well above 60%, f
 Drilling into this chart breaks the year down month by month: January (52,924), February (55,336), March (48,385), April (43,799), May (45,651), June (41,692), July (50,760), August (46,951), September (29,806), October (19,041), November (13,719), and December (30,831). The pattern holds up clearly here, postings peak in February, stay relatively steady through the first half of the year, then drop off hard starting September, bottoming out in November before a partial recovery in December. Whatever caused the slowdown in Q4 2024, it hit fast and only started to ease up right at year's end.
 
 ### Filter Panel (Bookmark-Triggered)
+
+![Filter Panel](/Resources/filter_pane.png)
+
 Clicking the filter icon in the top right slides in a hidden panel built with a bookmark, without leaving the main page. It adds four extra filters on top of the Job Title and Country slicers: **No Degree Required?**, **Work From Home?**, **Health Insurance Included?**, and **Schedule Type?**, all as dropdowns defaulting to "All." This lets users narrow the dataset down by job quality factors, not just title or location, while keeping the main dashboard clean when the panel isn't open.
 
 ## Conclusion
